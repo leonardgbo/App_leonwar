@@ -67,7 +67,7 @@ Future<void> callSpotifyFunction(Function(String accessToken)? function) async {
       ),
       mode: LaunchMode.externalApplication,
     );
-    AppLinks(
+    /*AppLinks(
       onAppLink: (Uri uri, String link) async {
         closeInAppWebView();
         if (link.contains('code=')) {
@@ -89,6 +89,6 @@ Future<void> callSpotifyFunction(Function(String accessToken)? function) async {
           }
         }
       },
-    );
+    );*/
   }
 }

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "740907508752",
+    "project_id": "app-musique-bf442",
+    "storage_bucket": "app-musique-bf442.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740907508752:android:70d33d9016a0ea82715695",
+        "android_client_info": {
+          "package_name": "com.shadow.blackhole"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740907508752-f2nd9mt0mrhgr4q73269s2vbm402erjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFLUUeLzolfc4agkziV3t4IP5JUeAAvPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740907508752-f2nd9mt0mrhgr4q73269s2vbm402erjp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
